@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Margherita",
+      "price": 8.99,
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/12/margherita-pizza-5.jpg",
+      "description": "Margherita pizza is a simple, delicious pizza thats easy to make at home. What makes a Margherita special is just how brilliantly basic it is."
+    },
+    {
+      "id": "2",
+      "name": "Pepperoni",
+      "price": 9.99,
+      "image": "https://riotfest.org/wp-content/uploads/2016/10/sdfl.jpg",
+      "description": "Pepperoni is a variety of spicy salami made from cured pork and beef seasoned with paprika and chili peppers. Prior to cooking, pepperoni is characteristically soft, slightly smoky, and bright red. "
+    },
+    {
+      "id": "3",
+      "name": "Sicilian",
+      "price": 7.99,
+      "image": "https://th.bing.com/th/id/OIP.XxKsPnOEebtEVY_M3GGefwHaE8?rs=1&pid=ImgDetMain",
+      "description": "Remember that study which demonstrated that duct tape was good for everything except fixing ducts? Along those same counter-intuitive lines, Sicilian pizza is not available in Sicily"
+    },
+    {
+      "id": "4",
+      "name": "Bangor",
+      "price": 8.99,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPvber0pqgvsKBTV-j7FVsTsxeKX1K-vuxkeTrr=w800-h500-k-no",
+      "description": "All in all, if you’re looking for the best pizza in Bangor, then look no further than Dabesta Pizza. You wont be disappointed!s"
+    },
+    {
+      "id": "5",
+      "name": "Protein",
+      "price": 11.99,
+      "image": "https://thebigmansworld.com/wp-content/uploads/2023/08/sicilian-pizza-recipe.jpg",
+      "description": "This protein pizza packs in over 30 grams of protein per serving! It’s easy to make, has no yeast, and I love how the dough needs just 2 ingredients."
+    },
+    {
+      "id": "6",
+      "name": "Greek pizza",
+      "price": 8.99,
+      "image": "https://th.bing.com/th/id/OIP.kNk66JioBvqQVYTS74KBmgAAAA?w=474&h=710&rs=1&pid=ImgDetMain",
+      "description": "We’ll sprinkle some dried oregano over the sauce since it’s a staple in Greek cuisine."
+    },
+    {
+      "id": "7",
+      "name": "Margherita",
+      "price": 8.99,
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/12/margherita-pizza-5.jpg",
+      "description": "Margherita pizza is a simple, delicious pizza thats easy to make at home. What makes a Margherita special is just how brilliantly basic it is."
+    },
+    {
+      "id": "8",
+      "name": "Pepperoni",
+      "price": 9.99,
+      "image": "https://riotfest.org/wp-content/uploads/2016/10/sdfl.jpg",
+      "description": "Pepperoni is a variety of spicy salami made from cured pork and beef seasoned with paprika and chili peppers. Prior to cooking, pepperoni is characteristically soft, slightly smoky, and bright red."
+    },
+    {
+      "id": "9",
+      "name": "Sicilian",
+      "price": 7.99,
+      "image": "https://th.bing.com/th/id/OIP.XxKsPnOEebtEVY_M3GGefwHaE8?rs=1&pid=ImgDetMain",
+      "description": "Remember that study which demonstrated that duct tape was good for everything except fixing ducts? Along those same counter-intuitive lines, Sicilian pizza is not available in Sicily"
+    },
+    {
+      "id": "10",
+      "name": "Bangor",
+      "price": 8.99,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPvber0pqgvsKBTV-j7FVsTsxeKX1K-vuxkeTrr=w800-h500-k-no",
+      "description": "All in all, if you’re looking for the best pizza in Bangor, then look no further than Dabesta Pizza. You wont be disappointed!s"
+    },
+    {
+      "id": "11",
+      "name": "Protein",
+      "price": 11.99,
+      "image": "https://thebigmansworld.com/wp-content/uploads/2023/08/sicilian-pizza-recipe.jpg",
+      "description": "This protein pizza packs in over 30 grams of protein per serving! It’s easy to make, has no yeast, and I love how the dough needs just 2 ingredients."
+    },
+    {
+      "id": "12",
+      "name": "Greek pizza",
+      "price": 8.99,
+      "image": "https://th.bing.com/th/id/OIP.kNk66JioBvqQVYTS74KBmgAAAA?w=474&h=710&rs=1&pid=ImgDetMain",
+      "description": "We’ll sprinkle some dried oregano over the sauce since it’s a staple in Greek cuisine."
+    }
+  ]
+}
